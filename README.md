@@ -1,11 +1,10 @@
-# 💫About Me :
-🔭 Currently working on software architecture
-🫱🏻‍🫲🏼 Looking for remote projects
-🌱 Always learning
-💬 Ask me about code improvements if you need
-👨🏻‍💻 Code is my best to build awesome tools 
+# 💫About Me :<br/>
+🔭 Currently working on software architecture<br/>
+🫱🏻‍🫲🏼 Looking for remote projects<br/>
+🌱 Always learning<br/>
+💬 Ask me about code improvements if you need<br/>
+👨🏻‍💻 Code is my best to build awesome tools<br/>
 
-## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armtorres) 
 
 # 💻Tech Stack
