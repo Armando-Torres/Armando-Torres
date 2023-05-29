@@ -4,12 +4,12 @@
 &ensp;🌱 Always learning but with 11 years behind my experience<br/>
 &ensp;💬 Ask me about code improvements, if you want<br/>
 &ensp;🏗️ Architecture: Event-Driven, Hexagonal, MVC or Microservices<br/>
-&ensp;🏭 Design patterns applied: Factory, Builder, Adapter, Decorator and Observer between others<br/>
-&ensp;🧩 Building software with principles: SOLID, DRY, YAGNI & KISS<br/>
+&ensp;🏭 Design patterns: Factory, Builder, Adapter, Decorator and Observer between others<br/>
+&ensp;🧩 Design principles: SOLID, DRY, YAGNI & KISS<br/>
 &ensp;♟️ Strategies: DDD, TDD or BDD.
 
 
-# <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armtorres" height="40" width="50" /> Linkedin:<br/>
+# <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armtorres" height="30" width="40" /> Linkedin:<br/>
 &ensp;<a href="https://linkedin.com/in/armtorres" target="_blank">https://linkedin.com/in/armtorres</a>
 
 # 👨🏻‍💻 Tech Stack: <br/>
